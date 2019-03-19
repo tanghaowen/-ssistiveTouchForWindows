@@ -1,4 +1,4 @@
-# Ａssistive Touch for windows
+# Ａssistive Touch for windows Tablet
 > アイコンの上でクリックすると、Enterキーが押されます。windowsのタッブレトでゲームをプレイする時、とても便利なツールです
 
 ![img1](img/img.jpg)
