@@ -1,8 +1,7 @@
 # Ａssistive Touch for windows Tablet
 > アイコンの上でクリックすると、Enterキーが押されます。windowsのタッブレトでゲームをプレイする時、とても便利なツールです
 
-<img src="https://github.com/tanghaowen/AssistantForTablet/blob/master/img/img.jpg" width="100" height="100">
-<img src="./img/img.png" width="100" height="100">
+![img2](img/img.jpg)
 
 ## アイコン設定
 現在のアイコンは自分で書いたものですので、ちょっとみにくいで、すみません（ハハ）
