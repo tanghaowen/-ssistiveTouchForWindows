@@ -1,0 +1,7 @@
+﻿  源.cpp
+e:\projectfront\屏幕虚拟回车\屏幕虚拟回车\源.cpp(94): warning C4101: “ps”: 未引用的局部变量
+e:\projectfront\屏幕虚拟回车\屏幕虚拟回车\源.cpp(122): warning C4101: “hicon”: 未引用的局部变量
+  正在生成代码
+  All 24 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  屏幕虚拟回车.vcxproj -> E:\ProjectFront\屏幕虚拟回车\Release\屏幕虚拟回车.exe

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "屏幕虚拟回车", "屏幕虚拟回车\屏幕虚拟回车.vcxproj", "{CC59CA9C-7330-42AD-925B-B05C1947DFC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC59CA9C-7330-42AD-925B-B05C1947DFC8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CC59CA9C-7330-42AD-925B-B05C1947DFC8}.Debug|Win32.Build.0 = Debug|Win32
+		{CC59CA9C-7330-42AD-925B-B05C1947DFC8}.Release|Win32.ActiveCfg = Release|Win32
+		{CC59CA9C-7330-42AD-925B-B05C1947DFC8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9021945E-C4F7-4659-910B-AFA359E7476C}
+	EndGlobalSection
+EndGlobal
